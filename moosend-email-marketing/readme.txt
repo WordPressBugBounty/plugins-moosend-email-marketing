@@ -2,8 +2,8 @@
 Contributors: moosend
 Tags: ecommerce, cart abandonment, email marketing, multi-channel marketing, marketing, product recommendations, recommendations, customer analytics, product analytics, conversion optimization, improve sales
 Requires at least: 4.1
-Tested up to: 6.6
-Stable tag: 1.0.191
+Tested up to: 6.8
+Stable tag: 1.0.192
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
